@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=
+comment1.target=Game()
+comment2.params=
+comment2.target=void\ play()
+comment3.params=loc
+comment3.target=void\ locationClicked(Location)
+comment4.params=key
+comment4.target=void\ keyPressed(int)
+comment5.params=
+comment5.target=void\ step()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
